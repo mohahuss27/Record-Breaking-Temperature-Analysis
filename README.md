@@ -49,6 +49,3 @@ pip install pandas matplotlib
 3. Run the cells in order to load data, preprocess, analyze, and visualize the results.
 
 The notebook will generate a plot showing temperature records from 2005-2014 and highlight 2015 record-breaking temperatures.
-
-## License
-This project is open-source. Feel free to use and modify.
