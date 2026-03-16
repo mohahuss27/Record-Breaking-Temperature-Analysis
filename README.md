@@ -40,8 +40,10 @@ Data sourced from the [GHCN-Daily dataset](https://www.ncei.noaa.gov/products/la
 
 Install dependencies:
 ```bash
-pip install pandas matplotlib## Usage
+pip install pandas matplotlib
 ```
+
+## Usage
 1. Ensure the data file `fb441e62df2d58994928907a91895ec62c2c42e6cd075c2700843b89.csv` is in the same directory.
 2. Open `weather_analysis.ipynb` in Jupyter Notebook or JupyterLab.
 3. Run the cells in order to load data, preprocess, analyze, and visualize the results.
