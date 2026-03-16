@@ -1,4 +1,4 @@
-# Record-Breaking Temperature Analysis – Ann Arbor, MI
+# Record-Breaking Temperature Analysis
 
 ## Overview
 This project demonstrates **data analysis and visualization skills** by examining historical temperature trends in **Ann Arbor, Michigan**. Using daily climate data from **2005–2014**, the analysis identifies **record-breaking temperatures in 2015**, providing actionable insights into extreme weather events and climate variability.
